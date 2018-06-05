@@ -1,4 +1,4 @@
-CedrusONE Open Software License v. 3.0 (OSL-3.0)
+##CedrusONE Open Software License v. 3.0 (OSL-3.0)
 
 CedrusONE open source edition is licensed under CedrusONE Open Software License v. 3.0 (OSL-3.0). It's basically a Open Software License v. 3.0 (OSL-3.0) plus the "powered by Cedrus Logistics" text requirement on every single page. The CedrusONE Open Software License v. 3.0 (OSL-3.0) consists of the Open Software License v. 3.0 (OSL-3.0) with the additional Terms below.
 
