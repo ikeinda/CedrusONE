@@ -5,8 +5,8 @@ from this file.
 
 ## FAQs
 
-* [General FAQ](https://github.com/cedruslogistics/CedrusONE/blob/master/docs/README.md)
-* [Technical FAQ](https://github.com/cedruslogistics/CedrusONE/blob/master/docs/README.md)
+* [General FAQs](https://github.com/cedruslogistics/CedrusONE/blob/master/docs/README.md)
+* [Technical FAQs](https://github.com/cedruslogistics/CedrusONE/blob/master/docs/README.md)
 
 ## System Design and Implementation
 
