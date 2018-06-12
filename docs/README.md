@@ -10,7 +10,7 @@ from this file.
 
 ## System Design and Implementation
 
-* [Blockstack Naming Service](https://github.com/cedruslogistics/CedrusONE/blob/master/docs/README.md)
+* [Product Requirement Document](https://github.com/cedruslogistics/CedrusONE/blob/master/docs/README.md)
 
 ## Developer Documentation
 
