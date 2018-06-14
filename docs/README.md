@@ -10,9 +10,6 @@ from this file.
 
 ## System Design and Implementation
 
-* [Blockstack Naming Service](https://github.com/cedruslogistics/CedrusONE/blob/master/docs/README.md)
-
 ## Developer Documentation
-
 
 ## Advanced Topics
