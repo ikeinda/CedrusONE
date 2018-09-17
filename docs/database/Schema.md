@@ -4,7 +4,7 @@ Share your knowledge with the community by contributing to Cedrus One!
 If you would like to become a [contributor](https://github.com/cedruslogistics/CedrusONE/blob/master/CODE_OF_CONDUCT.md), please send an email to cedrusone@cedruslogistics.com with the subject “Contribute”.
 
  ## Contributors
-- [IKE INDA](https://www.linkedin.com/in/ikeinda/)
+- [Ike Inda](https://www.linkedin.com/in/ikeinda/)
 - [Esteban Ferrer](https://www.linkedin.com/in/ejferrer83/)
 
 
