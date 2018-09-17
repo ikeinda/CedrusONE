@@ -75,12 +75,9 @@ If you would like to become a [contributor](https://github.com/cedruslogistics/C
           </ul>
         </li>
         <li><b>Inventory</b><ul>
-            <li class="table"><a href="#1300199682">InventoryMethod</a></li>
-          </ul>
-        </li>
-        <li><b>Inventory</b><ul>
             <li class="table"><a href="#1934629935">Adjustment</a></li>
             <li class="table"><a href="#2030630277">AdjustmentLine</a></li>
+            <li class="table"><a href="#1300199682">InventoryMethod</a></li>
             <li class="table"><a href="#946102411">Incoterms</a></li>
             <li class="table"><a href="#898102240">Inventory</a></li>
             <li class="table"><a href="#994102582">InventoryLine</a></li>
