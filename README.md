@@ -11,6 +11,10 @@ Cedrus One is a FREE and OPEN-SOURCE supply chain and logistics software solutio
 
 Contributions can take the form of new components or features, changes to existing features, tests, documentation (such as developer guides, user guides, examples, or specifications), bug fixes, optimizations, or just good suggestions.
 
+### How to contribute
+Share your knowledge with the community by contributing to Cedrus One!
+If you would like to become a [contributor](https://github.com/cedruslogistics/CedrusONE/blob/master/CODE_OF_CONDUCT.md), please send an email to cedrusone@cedruslogistics.com with the subject “Contribute”.
+
 ## Issues
 
 Please use [Github's issue tracker](https://github.com/cedruslogistics/CedrusONE/issues/new) to report issues and suggestions.
