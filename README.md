@@ -15,6 +15,8 @@ Contributions can take the form of new components or features, changes to existi
 Share your knowledge with the community by contributing to Cedrus One!
 If you would like to become a [contributor](https://github.com/cedruslogistics/CedrusONE/blob/master/CODE_OF_CONDUCT.md), please send an email to cedrusone@cedruslogistics.com with the subject “Contribute”.
 
+To view the database schema, click [here](https://github.com/cedruslogistics/CedrusONE/blob/master/docs/database/Schema.md).
+
 ## Issues
 
 Please use [Github's issue tracker](https://github.com/cedruslogistics/CedrusONE/issues/new) to report issues and suggestions.
