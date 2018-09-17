@@ -1,5 +1,11 @@
 
+ ## How to contribute
+Share your knowledge with the community by contributing to Cedrus One!
+If you would like to become a contributor, please send an email to cedrusone@cedruslogistics.com with the subject “Contribute”.
 
+ ## Contributors
+- [IKE INDA](https://www.linkedin.com/in/ikeinda/)
+ 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
   <head>
