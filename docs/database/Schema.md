@@ -74,7 +74,7 @@ If you would like to become a [contributor](https://github.com/cedruslogistics/C
             <li class="table"><a href="#4195065">Setting</a></li>
           </ul>
         </li>
-        <li><b>dbo</b><ul>
+        <li><b>Inventory</b><ul>
             <li class="table"><a href="#1300199682">InventoryMethod</a></li>
           </ul>
         </li>
@@ -2681,7 +2681,7 @@ If you would like to become a [contributor](https://github.com/cedruslogistics/C
       </table>
     </div>
     <div class="table">
-      <h2 id="1300199682"><a href="#toc" class="tocref">⇧</a>Table dbo.InventoryMethod</h2>
+      <h2 id="1300199682"><a href="#toc" class="tocref">⇧</a>Table Inventory.InventoryMethod</h2>
       <table>
         <thead>
           <tr>
