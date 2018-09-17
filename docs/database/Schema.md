@@ -4,8 +4,8 @@ Share your knowledge with the community by contributing to Cedrus One!
 If you would like to become a [contributor](https://github.com/cedruslogistics/CedrusONE/blob/master/CODE_OF_CONDUCT.md), please send an email to cedrusone@cedruslogistics.com with the subject “Contribute”.
 
  ## Contributors
-- [Ike Inda](https://www.linkedin.com/in/ikeinda/)
-- [Esteban Ferrer](https://www.linkedin.com/in/ejferrer83/)
+   - <img alt="CedrusONE" src="https://media.licdn.com/dms/image/C4E03AQE7ZyVqElmSkA/profile-displayphoto-shrink_100_100/0?e=1542844800&v=beta&t=mUBZTMNyZScOJWk9AFOYQaIsglIxTwmlE_ifKlPmmFA" width="25"/> [Ike Inda](https://www.linkedin.com/in/ikeinda/)
+   - <img alt="CedrusONE" src="https://media.licdn.com/dms/image/C5603AQG9zs6rVlSFHA/profile-displayphoto-shrink_800_800/0?e=1542844800&v=beta&t=pxCil1DYauIV3ZklrkI0yW44MdS7xbiVqJIWtpEvYy4" width="25"/> [Esteban Ferrer](https://www.linkedin.com/in/ejferrer83/)
 
 
  
